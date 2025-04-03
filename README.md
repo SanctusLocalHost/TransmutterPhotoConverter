@@ -1,6 +1,6 @@
 # TRANSMUTER PHOTO CONVERTER
 
-TRANSMUTER é um conversor de imagens em lote com suporte a drag & drop, desenvolvido em Python, com interface escura utilizando CustomTkinter.
+TRANSMUTER é um Conversor de Imagens em Lotes infinitos.
 
 ## Funcionalidades
 
