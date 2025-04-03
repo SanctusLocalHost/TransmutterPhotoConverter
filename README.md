@@ -1,6 +1,6 @@
 # TRANSMUTER PHOTO CONVERTER
 
-TRANSMUTER é um Conversor de Imagens em Lotes infinitos.
+TRANSMUTER é um Conversor de Imagens em Lotes infinitos, para a Resolução X, e Extenção Y, com salvamento no mesmo diretório que o Software for executado.
 
 ## Funcionalidades
 
